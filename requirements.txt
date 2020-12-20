@@ -1,0 +1,6 @@
+numpy
+tensorflow
+PyQt5
+easygui
+
+
